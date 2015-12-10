@@ -1,0 +1,16 @@
+/*/////// MEDIA ////////*/
+
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+.logo {
+	width: 400px;
+	margin-bottom: 2%;
+
+}
+
+.row {
+	margin-bottom: 20px; 
+}
